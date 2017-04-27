@@ -6,5 +6,7 @@ Ever felt the need to pull a value out of your ass?
 Build instructions
 ------------------
 Linux
+
 ```$ make```
+
 ```$ sudo make install```
