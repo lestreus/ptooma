@@ -1,0 +1,14 @@
+{
+  "name": "ptooma",
+  "version": "1.0.0",
+  "description": "A pulledthis[number*]outofmyass binding for node (*editors note - number is implicit)",
+  "main": "ptooma.js",
+  "scripts": {
+    "test": "node ptooma-test.js"
+  },
+  "author": "Marcus Leyman, Oskar Alexandersson",
+  "license": "MIT",
+  "dependencies": {
+    "ffi": "^2.2.0"
+  }
+}
